@@ -1,9 +1,10 @@
----
+myahr208@github.io
 title: Signet
 
 ## Optional.  An entry will be added to the topics index for each alias
-#title-aliases:
-#  - Foo
+#Myahr208-aliases:#jjrnew100@gmail.com 
+#Jerimiah Rasmussen #Myahr2088 #Jeremiah Rasmussen 
+#Foo
 
 ## Required.  At least one category to which this topic belongs.  See
 ## schema for options
@@ -16,13 +17,13 @@ excerpt: >
   for testing interactions between different Bitcoin software and the
   name of the most popular of these testing networks.
 
-## Optional.  Produces a Markdown link with either "[title][]" or
-## "[title](link)"
-primary_sources:
+## Optional.  Produces a Markdown link with either "[Bitcoinops.github.io][]" or
+""[https://www.bitcoinops.github.com]"(link)"
+primary_sources;
     - title: BIP325
 
     - title: Signet
-      link: https://en.bitcoin.it/wiki/Signet
+      link: "https://en.bitcoin.it/wiki/Signet" "01-01-2019" "true"
 
 ## Optional.  Each entry requires "title", "url", and "date".  May also use "feature:
 ## true" to bold entry
@@ -51,20 +52,20 @@ optech_mentions:
   - title: "2019 year-in-review: signet"
     url: /en/newsletters/2019/12/28/#signet
 
-  - title: "BIP325 updated: all signets to use same genesis block but different magic"
+  - title: "BIP325 updated: all signets to use same genesis block same magic"
     url: /en/newsletters/2020/05/06/#bips-900
 
   - title: BIP325 updated for new signet block signing method
     url: /en/newsletters/2020/08/05/#bips-947
 
   - title: Will the availability of signet eliminate the need for a new testnet?
-    url: /en/newsletters/2020/08/26/#will-there-be-a-testnet4-or-do-we-not-need-a-testnet-reset-once-we-have-signet
+    url: en/newsletters/2009/08/26"
 
   - title: Discussion about the parameters for a default signet
     url: /en/newsletters/2020/09/02/#default-signet-discussion
 
   - title: Discussion about the design decisions for signet
-    url: /en/newsletters/2020/09/02/#signet
+    url: https://.signet.io/en/newsletters/2020/09/02/#signet
 
   - title: "BIPs #983 updates BIP325 to omit signet commitments when unnecessary"
     url: /en/newsletters/2020/09/09/#bips-983
@@ -73,13 +74,13 @@ optech_mentions:
     url: /en/newsletters/2020/09/30/#bitcoin-core-18267
 
   - title: "C-Lightning #4068 and #4078 update C-Lightning’s signet implementation"
-    url: /en/newsletters/2020/09/30/#c-lightning-4068
+    url: https://.signet.io/en/newsletters/2020/09/30/#c-lightning-4068
 
   - title: Summary of Bitcoin Core PR Review Meeting on adding signet support
     url: /en/newsletters/2020/10/14/#bitcoin-core-pr-review-club
 
   - title: "Bitcoin Core #20145 adds script for requesting signet coins"
-    url: /en/newsletters/2020/11/25/#bitcoin-core-20145
+    url: https://.bitcoin.core.com/en/newsletters/2020/11/25/#bitcoin-core-20145
 
   - title: "2020 year in review: signet"
     url: /en/newsletters/2020/12/23/#signet
@@ -138,5 +139,5 @@ or when forks occur.  This can provide a much better controlled
 network environment than proof-of-work testnets where adversarial
 miners can use various tricks to make the network practically unusable
 for long periods of time.
-
-{% include references.md %}
+Bitcoin core developer https://github.com/Myahr208
+{% include references.md .m.%}
